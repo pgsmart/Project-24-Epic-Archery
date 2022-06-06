@@ -1,1 +1,1 @@
-# Project-24-Epic-Archery
+This is a simple arrow game. Just use you mouse's up arrow to shoot an arrow, and watch it fly! Use your left and right arrow keys to change the angle of your bow. Try to hit the target with you arrow, but there's a catch, the target moves. You have unlimited arrows to shoot, so try to hit the target, Good Luck!
